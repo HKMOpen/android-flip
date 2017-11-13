@@ -64,6 +64,9 @@ First release
 
 ![screenshot](http://openaphid.github.com/images/flipview-demo.gif "Screenshot of Aphid FlipView v0.9")
 
+### Thank you for your support and we will bring more amazing libraries to your productive works. We are accepting bitcoin by the address as below. Please scan the QR code to start
+![wallet](http://s32.postimg.org/sdd1oio1t/qrwallet.jpg)
+
 ## Copyright and License
 
 ```
